@@ -1,4 +1,4 @@
 # tbl3101
-Office PC
+Desk PC
 <br>
 Author - Mrityunjay Singh
